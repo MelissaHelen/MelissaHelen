@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MelissaHelen
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me ...
+- 📫 You can reach me via my website contact form.
 
 <!---
 MelissaHelen/MelissaHelen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
